@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "swashbuckle.aspnetcore.cli": {
+      "version": "5.5.1",
+      "commands": [
+        "swagger"
+      ]
+    },
+    "dotnet-ef": {
+      "version": "3.1.8",
+      "commands": [
+        "dotnet-ef"
+      ]
+    }
+  }
+}
